@@ -55,5 +55,8 @@ Our fonts: font-family: 'Bad Script', cursive; -> for h1 font-family: 'Pacifico'
 ## Screenshot
 Here, you can see the sleek and user-friendly interface. The side-bar menu moves to the top on a mobile device, providing a smooth and enjoyable user experience.
 
-![](./Images/bean-cafe-home.png)
-![](./Images/bean-cafe-menu.png)
+![image](https://github.com/Netta8/BEAN.Cafe-group-project/assets/118278167/a9e956b9-524e-483d-969b-b05a13284f52)
+
+![image](https://github.com/Netta8/BEAN.Cafe-group-project/assets/118278167/63f6ca87-965b-4ea8-9a49-da7da9d707e0)
+
+
